@@ -10,3 +10,5 @@ models
 .ipynb_checkpoints
 .DS_Store
 __pycache__
+config.bat
+node_modules
